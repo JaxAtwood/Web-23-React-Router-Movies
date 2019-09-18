@@ -52,4 +52,4 @@ function MovieDetails({ movie }) {
   );
 }
 
-export default MovieList;
+export {MovieDetails, MovieList };
