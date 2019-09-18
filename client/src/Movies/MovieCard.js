@@ -1,7 +1,12 @@
 import React from 'react';
+import MovieList from "./MovieList";
 
 const MovieCard = props => {
-  return;
+  return (
+    // <div>
+    //   <p className="hateThis">{props.title}</p>
+    // </div>
+  );
 };
 
 export default MovieCard;
